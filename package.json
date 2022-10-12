@@ -1,0 +1,31 @@
+{
+  "name": "media-player",
+  "version": "1.0.0",
+  "description": "curso profesional de javaScrpt ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "parcel public/index.html public/js/ejercicios/ejemplos.html public/js/ejercicios/**/*.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fernandocst03/media-player.git"
+  },
+  "keywords": [
+    "JavaScript",
+    "html",
+    "css"
+  ],
+  "author": "Fernando Dorantes Castillo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fernandocst03/media-player/issues"
+  },
+  "homepage": "https://github.com/fernandocst03/media-player#readme",
+  "devDependencies": {
+    "parcel-bundler": "^1.12.5"
+  },
+  "browserslist": [
+    "last 1 safari version"
+  ]
+}
